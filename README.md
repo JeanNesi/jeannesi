@@ -1,7 +1,7 @@
 ### Olá, eu sou o Jean Carlos Nesi 👋
 
 - 🔭 Atualmente estou cursando Engenharia de Software
-- 🌱 Estudando: C#
+- 🌱 Estudando: JavaScript, Python
 
 <div align="center">
   <a href="https://github.com/Jeannesi">
