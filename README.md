@@ -1,6 +1,6 @@
 ### Olá, eu sou o Jean Carlos Nesi 👋
 
-- 🔭 Atualmente estou cursando Engenharia de Software
+- 🔭 Atualmente estou cursando Engenharia de Software - UniSatc
 - 🌱 Estudando: JavaScript, HTML, CSS e Python
 
 <div align="center">
