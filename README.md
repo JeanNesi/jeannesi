@@ -1,4 +1,4 @@
-### Olá, eu sou o Jean Carlos Nesi 👋
+### Hi there wave, I am Jean Carlos Nesi 👋
 
 - 🔭 I'm currently studying Software Engineering - UniSatc
 - 🌱 Studying: JavaScript, NodeJS, React e Python
