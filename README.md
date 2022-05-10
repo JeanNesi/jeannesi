@@ -3,7 +3,7 @@
 - 🔭 I'm currently studying Software Engineering - UniSatc
 - 🌱 Studying: JavaScript, NodeJS, React e Python
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/JeanNesi">
   <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeanNesi&layout=compact&langs_count=7&theme=dark"/>
 </div>
