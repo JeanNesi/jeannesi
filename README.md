@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I am Jean Carlos Nesi 👋</h1>
 - 🔭 I'm currently studying Software Engineering - UniSatc<br>
-- 🌱 Studying: React, TypeScript
+- 🌱 Studying: React, TypeScript, SQL
 </div><br>
 
 <div align="center">
